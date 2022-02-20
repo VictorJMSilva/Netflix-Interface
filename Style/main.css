@@ -1,6 +1,6 @@
 :root{
     --vermelho: #E50914;
-    --preta: #141414;
+    --preta: #222222;
 }
 
 *{
@@ -62,12 +62,13 @@ header nav a:hover{
     width: 430px; 
     background-image: url('/img/name2.png');
     background-size:430px 200px;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
         
 }
 
 .filme-destaque .descricao{
-    margin-bottom: 10px;
+    margin-bottom: 15px;
+    padding-top: 40px;
     text-align: justify;
     min-width: 420px;
     }
@@ -76,6 +77,7 @@ header nav a:hover{
     background-color: rgba(0, 0, 0, .50);
     border: none;
     color:white;
+    border-radius: 20px;
         
     padding: 15px 20px;
     margin-right: 5px;
@@ -100,6 +102,7 @@ header nav a:hover{
 
 .container{
     margin-left: 20px;
+    margin-right: 20px;
 }
 
 .filme-destaque .container{
