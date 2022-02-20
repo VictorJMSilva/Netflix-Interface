@@ -5,9 +5,11 @@
     }
 
     .botao{
-        margin-top: 5px;
-        width: 120px;
-        height: 60px;
+        margin-top: 15px;
+        width: 200px;
+        height:40px;
+        min-width: 180px;
+               
     }
     
 }
